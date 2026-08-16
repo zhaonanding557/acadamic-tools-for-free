@@ -6,3 +6,5 @@ Sharing some insights from daily research life~
 > https://wievf29s6ca.feishu.cn/wiki/L8mOwmm0KiApwZkfy8JcN7tonHg
 
 我把用模型生成好的PPT放在路径：PPT/EK_Nankai_Image2_Final_Selected_16x9.pptx里，使用之前可以用模型把这些页面变成图片后将它们作为模板。
+
+持续更新中~
