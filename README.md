@@ -13,5 +13,8 @@ Sharing some insights from daily research life~
 ## **学习matlab的网站**
 > https://www.mathworks.com/help/matlab/getting-started-with-matlab.html
 
+接下来这个是knitro的网站
+> https://www.artelys.com/app/docs/knitro/3_referenceManual/knitromatlabReference.html
+
 
 持续更新中~
